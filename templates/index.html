@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>FlexiText - Upload and Translate</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+    <div class="container">
+        <h1>FlexiText</h1>
+        <form id="upload-form" enctype="multipart/form-data">
+            <label for="file">Upload Document (PDF/DOCX):</label>
+            <input type="file" id="file" name="file" required>
+
+            <label for="prompt">Translation/Formatting Prompt:</label>
+            <input type="text" id="prompt" name="prompt" placeholder="Enter your prompt (e.g., Translate to French)" required>
+
+            <button type="submit">Submit</button>
+            <div id="loading-spinner" style="display:none;">
+                <div class="spinner"></div>
+                <p class="processing">Processing your file...</p>
+            </div>
+            
+        </form>
+        
+
+        
+        <div id="result">
+            <p id="success-message"></p>
+            <a id="download-link" href="#" style="display: none;">Download Processed File</a>
+            
+        </div>
+        <button id= "process-another" style="display: none;">Start Over</button>
+    </div>
+
+    
+
+    <script src="{{ url_for('static', filename='app.js') }}"></script>
+</body>
+</html>
