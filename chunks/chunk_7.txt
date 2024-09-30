@@ -1,0 +1,16 @@
+21.2.2 The Customer shall in perpetuity have the right to modify or add to any of the Software without reference or obligation to the Contractor except that modifications and additions during the Warranty Period shall be agreed with the Contractor.
+21.2.3 The Customer shall not assign or sub-licence to any third party or cause or permit any third party to have the use of the Software, including any translation, compilation, adaptation, enhancement or any other version of the Software, without prior notice to Contractor.
+21.2.4 In addition to his obligations under Clause 19, the Contractor shall provide Software maintenance services and system support as defined in the Contract.
+21.2.5 The Customer reserves the right to use other software on the Equipment supplied under this Contract, provided this does not affect the Contractor's obligations.
+
+22. FORCE MAJEURE
+22.1 For the purpose of the Contract the term Force Majeure shall mean:
+(a) war and other hostilities including terrorist activities, (whether war be declared or not) invasion, act of foreign enemies, mobilisation, requisition, or embargo
+(b) rebellion, revolution, insurrection, military or usurped power or civil war
+(c) riot, commotion, or disorder except where solely restricted to employees of the Contractor or its sub-Contractors or sub-suppliers
+(d) earthquake, flood, fire, epidemic or other natural physical disasters except to the extent that any such disaster is caused by, or its effects contributed to by, the party claiming force majeure.
+Force majeure shall not include a general industrial dispute or failure by approved subcontractors.
+22.2 If either party considers that any circumstance of Force Majeure has occurred which may affect materially the performance of its obligations then he shall forthwith notify the other in writing to that effect giving full details of the circumstances giving rise to the Force Majeure event.
+22.3 Neither party shall be considered to be in default of its obligations under the Contract to the extent that it can establish that the performance of such obligations is prevented by any circumstance of Force Majeure which arises after the date of the Contract and which was not foreseeable at the date of the Contract.
+22.4 If the performance of the obligations of either party under the Contract is so prevented by circumstances of Force Majeure and shall continue to be so prevented for a period of less than 30 days then during that period the Contract shall be considered as suspended. Upon the ending of the Force Majeure event the Contractual obligations of the parties shall be reinstated with such reasonable  modifications to take account of the consequences of the Force Majeure event as may be agreed between the parties or, in default of such agreement, as may be determined by an Expert appointed under this Agreement. Notwithstanding such suspension the Contractor shall use his reasonable endeavours to assist the Customer in the performance of the Contract.
+22.5 If performance of the obligations of either party under the Contract is so prevented by circumstances of Force Majeure and shall continue to be so prevented for a period in excess of 30 days then the Contract shall be terminated by mutual consent and, subject to sub-Clause 22.6 below neither party shall be liable to the other as a result of such termination.

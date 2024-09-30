@@ -1,0 +1,19 @@
+(d) is independently and lawfully developed by the recipient or its sub-Contractor outside the scope of the Contract.
+17.3 So far as it may be necessary for the performance of the Contract or for the operation and maintenance of the subject matter of the Contract each party may divulge any information to be kept confidential under sub-Clause 1 of this Clause to their employees, agents and approved sub-Contractors, if any, on a "need to know" basis but undertake that they will ensure compliance by such employees, agents, and sub - Contractors with the obligations as to confidentiality expressed in this Clause and will be responsible to the other party for any failure by any employee, agent or sub-Contractor to comply with such obligations whether such employee, agent or sub-Contractor was aware of them or not.
+17.4 The provisions of this Clause shall continue in perpetuity.
+
+18. CONSUMABLE SUPPLIES
+The Customer reserves the right to procure material and any other consumable supplies to be used on and suitable for the Equipment from the Contractor or such other source as the Customer may deem appropriate, such procurement from a source other than the Contractor shall not invalidate any rights of the Customer under these Conditions.
+
+19. MAINTENANCE
+The Contractor has the obligation to ensure after-sales support and maintenance to the Customer in a way to guarantee the good function of the Works during the whole Warranty Period. If required by the Customer before the end of the Warranty Period the Contractor shall enter into a separate contract for the maintenance of the Equipment and Software on terms and conditions to be agreed. The Contractor remains engaged and available for any further support with maintenance of the Works after the Warranty Period expired and outside any separate contract, as such services may be subject to an appropriate invoicing.
+
+20. SPARES
+20.1 The Contractor shall make available to the Customer on request and with reasonable despatch and at reasonable prices, all spares and replacement parts as the Customer shall require for the Equipment.
+20.2 The Contractor shall maintain a supply of such spares or replacement parts for a period of seven years from the delivery of the Works, such spares or replacement parts to be fully compatible with but not necessarily identical to similar items previously supplied.
+20.3 If during this period the Contractor or his Sub-Contractors intend to discontinue the manufacture of spares or replacement parts for the Equipment the Contractor shall forthwith give notice to the Customer of such intention and afford the Customer the opportunity (which shall be exercised within 3 months) of ordering at reasonable prices such quantities of such spares or replacement parts as the Customer shall reasonably require in relation to the anticipated life of the Equipment. Alternatively the parties may agree within the said period of 3 months upon a price at which the Contractor will sell to the Customer such drawings, patterns, specifications and other information as he may have in his possession and as the Customer shall require to enable him to make or have made such spares or replacement parts.
+20.4 The Customer undertakes for himself and on behalf of his servants and agents that all drawings, patterns, specifications and other information obtained from the Contractor under this Clause shall be kept confidential and will not be divulged except to such persons as it may be necessary to divulge the same to, for the purpose of making or having made spares or replacement parts as aforesaid.
+
+21. SOFTWARE
+21.1 The Contractor shall be responsible for providing in accordance with the Contract all Software and associated documentation necessary for the satisfactory operation of the Equipment.
+21.2.1 The Contractor hereby grants to the Customer a perpetual right to use the Software (whether modified as hereinafter provided or not) on the Equipment.

@@ -1,0 +1,22 @@
+7.6 If any Equipment or Software fails to pass the Factory Tests or is rejected under the above Sub-Clause such Equipment and Software shall be tested again within a reasonable time upon the same terms and conditions save that all reasonable expenses.
+
+8. PATENTS, DESIGNS AND COPYRIGHT
+The Contractor shall fully indemnify and hold the Customer harmless against all actions, claims, demands, proceedings, damages, costs, charges and expenses arising from or incurred by reason of any infringement or alleged infringement of any intellectual property rights, including without limitation, any patent, registered or unregistered design right, trade mark, or copyright by the use or possession of the Equipment and Software supplied by the Contractor under the Contract.
+
+9. STANDARD OF PERFORMANCE
+The Contractor shall ensure that the Equipment and Software maintain the standard of performance specified in the Contract and demonstrated in the Factory Tests for either:-
+(i) the period of the maintenance contract if the Equipment and/or Software are to be maintained by the Contractor;
+or
+(ii) the Warranty Period if the Equipment and/or Software are not to be maintained by the Contractor. If the Customer can demonstrate that the Standard of Performance specified in the Contract has not been maintained due to the fault of the Contractor then, notwithstanding prior acceptance of the Equipment and Software in accordance with previous Clauses, the Contractor shall forthwith, at his own expense, provide to the Customer such replacement or additional items of Equipment and Software as may be necessary to achieve the standard of performance specified in the Contract.
+
+10. ASSIGNMENT AND SUBLETTING
+The Contractor shall be responsible for the acts, defaults and omissions of its sub-Contractors, whether approval has been given to their appointment under this Clause or not, as if they were his own and any consent given under this Clause shall not relieve the Contractor of any of his obligations under the Contract.
+
+11. CONSEQUENTIAL LOSS
+Neither party shall be liable to the other for consequential loss or damage, loss of revenue, opportunity or contract or goodwill.
+
+12. TERMS OF PAYMENT
+12.1 The Contractor shall be entitled to claim payment of the Contract Price for the deliveries of the Works as follows:
+- Prelaminated Inlays Production Line: 288 100 €, 20% advance, 80% upon before shipment.
+12.2 If at any time at which any payment would fall to be made under the provisions of the Contract and there shall be any defect due to the fault of the Contractor in or affecting any portion of the Works in respect of which such payment is claimed, the Customer shall have the right to retain the whole of such payment, provided that in the event of such defect being of a minor character and not such as to affect the use of the Works or the said portion thereof for the purpose intended without serious risk, the Customer shall not retain a greater sum than represents the cost of making good the said defect. Any sum retained by the Customer under this Clause shall be paid to the Contractor upon the said defect being made good.
+12.3 The Contractor shall be entitled to invoice the Customer at the times and in the manner specified in the Contract. Provided that the invoice was one which under the Contract the Contractor was entitled to submit the Customer shall pay the Contractor within the period of days specified in the Contract from the date of receipt of the invoice, and in default of such specification, 30 days from the date of invoice, subject to any right of deduction which the Customer may have by way of setoff or abatement. If the Customer does make any such deduction, then he shall notify the Contractor accordingly in writing with reasons.

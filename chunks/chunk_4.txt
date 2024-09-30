@@ -1,0 +1,20 @@
+12.4 The Customer reserves the right to withhold payment against any invoice which is not submitted in accordance with the Contract or which covers or purports to relate to Equipment, Software or services which have not been provided in accordance with the Contract and shall forthwith notify the Contractor accordingly in writing.
+12.5 All sums payable under this Agreement shall be exclusive of value added tax, if any, which shall be paid by the Customer to the Contractor in addition, with the Contract Price as provided above.
+
+13. FIXED PRICE
+The Contract Price shall not be varied by reason of any rise or fall in the cost of materials, labour or transport above or below the cost ruling at the date of the Contract.
+
+14. OWNERSHIP
+The Equipment or any part thereof shall become the property of the Customer on payment of the sums due in accordance with the Contract.
+
+15. WARRANTY PERIOD
+15.1 The Contractor shall be responsible for making good with all possible speed at his own expense any defect in or damage to any portion of the Works which may develop during a period of 12 calendar months after the delivery of the Works (hereinafter referred to as `the Warranty Period'), where this results in a failure of the Works to fulfil the functions or meet the level of performance in the Contract.
+15.2 If any such damage or defect be not remedied within a reasonable time, the Customer may proceed to do the work at the Contractor's risk and expense but without prejudice to any other rights which the Customer may have against the Contractor in respect of the failure of the Contractor to remedy such defect or damage.
+15.3 Where a defect involves a fault inherent in the design of the Works the Contractor shall at his own expense promptly carry out such redesign as may be necessary to prevent a recurrence of the defect and upon completion of such redesign shall rectify the fault in the Works. Any such redesign shall be accomplished in such a manner as to ensure that the performance and operation of the Works is not down-graded by virtue of such redesign from the standard as accepted by the Customer. The Warranty Period of 12 calendar months shall thereupon be renewed in respect of the Works or any portion thereof subject to such redesign and rectification.
+15.4 The provisions of this Clause shall not apply to any defect or damage which arises or develops as a result of any alteration to the Works made by the Customer or any negligent act or omission of the Customer.
+
+16. TERMINATION
+16.1 If the Contractor becomes insolvent or bankrupt or carries on its business under an administrator or administrative receiver for the benefit of its creditors or any of them, then the Customer shall have the right forthwith by notice in writing to the Contract or to the administrator, administrative receiver or to the liquidator or to any person in whom the Contract shall have become vested terminate the Contract. Alternatively the Customer may at his sole option give such administrator, administrative receiver, liquidator or other person the option of carrying out the Contract subject to its providing a guarantee for the due and faithful performance of the Contract in such form and up to such amount as the Contractor shall decide. 
+16.2 If the Customer shall become insolvent or bankrupt, or carry on its business under an administrator or administrative receiver for the benefit of its creditors or any of them, the Contractor shall be at liberty to terminate the Contract forthwith by notice in writing to the Customer or to the administrative receiver or administrator or liquidator or to any person in whom the Contract may become vested.
+16.3 1. Either party may terminate this Contract forthwith by written notice to the other effective from the date of service of such notice if:
+(a). there is a breach by the other party of any provision of the Contract which expressly entitles the party not in breach to terminate the Contract.

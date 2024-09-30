@@ -1,0 +1,24 @@
+22.6. If the Contract is so terminated then subject to the transfer to the Customer of the benefit referred to in sub-Clause 22.7 below the Customer shall pay to the Contractor such reasonable sum as may be agreed between the parties or in default of agreement as may be determined by Expert Determination in accordance with this Agreement in respect of costs incurred and commitments already entered into by the Contractor at the date of the Force Majeure notice, less the amount of any payments already made to the Contractor at the date of the Force Majeure notice. If the amount of such advance payments made to the Contractor exceeds the sum due to the Contractor under this sub-Clause then the Contractor shall repay the balance to the Customer
+22.7 The Contractor shall transfer to the Customer the benefit of all work done by him or his approved sub-Contractors and sub-suppliers if any in the performance of the Contract up to the date of the Force Majeure notice, or will do so on the payment under sub-Clause 22.6 above.
+
+23. TRAINING
+The Contractor shall provide instruction in the use of the Equipment and Software for the Customer's personnel in accordance with the requirements of the Contract. Unless otherwise specified no charge shall be made for such instruction but the Customer shall be responsible for paying any travel or living expenses necessarily incurred by the Customer's personnel attending such instruction.
+
+24. PUBLICITY
+Neither party shall without the written consent of the other (the giving of which consent shall be at the sole discretion of that party) advertise, publicly announce or provide to any other person information relating to the existence or details of the Contract or use the other party's name in any format for any promotion, publicity, marketing or advertising purpose.
+
+25. OPERATING MANUALS
+The Contractor shall supply to the Customer all operating manuals and other documentation necessary for the satisfactory operation of the Equipment and Software or as specified in the Contract. If, after the delivery of the Works the operating manuals and documentation need updating or replacing the Contractor shall supply such updates or replacements to the Customer at reasonable prices unless free updates and/or fixes were offered in the Contract.
+
+26. DISPUTE RESOLUTION
+If any dispute or difference whatsoever shall arise between the parties in connection with or arising out of the Contract, the parties will strive to obtain an amicable settlement between the Parties.
+If the conflict arises to a litigation, the parties submit to the jurisdiction of the Paris International Court of Arbitration at the International Chamber of Commerce should they opt as a last resort for any suit, action, or other proceeding.
+
+27. LAW
+Unless otherwise agreed in writing between the parties, the Contract shall be subject to and construed and interpreted in accordance with European Law.
+
+For ARFID Ltd. (Customer): 			For RAFID Technology Inc. (Contractor):
+Name: Damian Dobrodeliev 						Name: David Hong
+Title: Executive 								Title: CEO
+
+Signature and Stamp:							Signature and Stamp:
